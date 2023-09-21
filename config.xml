@@ -1,0 +1,17 @@
+<initial_config>
+    <transponder>
+        <frequency>818000000</frequency>
+        <bandwidth>8</bandwidth>
+        <module>DVB-T</module>
+    </transponder>
+    <starting_channel>
+        <audio_pid>103</audio_pid>
+        <video_pid>101</video_pid>
+        <audio_type>10</audio_type>
+        <video_type>42</video_type>
+    </starting_channel>
+    <system_time_date>
+        <time>15:32:47</time>
+        <date>24/08/2010</date>
+    </system_time_date>
+</initial_config>
